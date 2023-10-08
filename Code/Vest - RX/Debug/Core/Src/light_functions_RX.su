@@ -1,0 +1,14 @@
+../Core/Src/light_functions_RX.c:34:6:shiftOut	16	static
+../Core/Src/light_functions_RX.c:45:6:buzzing	8	static
+../Core/Src/light_functions_RX.c:53:6:board_ready_to_recive_voice	16	static
+../Core/Src/light_functions_RX.c:67:6:turning_diode_reset	16	static
+../Core/Src/light_functions_RX.c:74:6:position_lights_set	8	static
+../Core/Src/light_functions_RX.c:85:6:check_stop_light_logic	8	static
+../Core/Src/light_functions_RX.c:104:6:stop_light_set	8	static
+../Core/Src/light_functions_RX.c:111:6:stop_light_reset	8	static
+../Core/Src/light_functions_RX.c:123:6:emergency_lights_logic	8	static
+../Core/Src/light_functions_RX.c:135:6:emergency_lights_set	16	static
+../Core/Src/light_functions_RX.c:155:6:turn_left_lights_logic	8	static
+../Core/Src/light_functions_RX.c:167:6:turn_left_lights_set	16	static
+../Core/Src/light_functions_RX.c:188:6:turn_right_lights_logic	8	static
+../Core/Src/light_functions_RX.c:200:6:turn_right_lights_set	16	static

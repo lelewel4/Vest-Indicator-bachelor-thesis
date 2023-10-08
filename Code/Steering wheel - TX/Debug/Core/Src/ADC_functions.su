@@ -1,0 +1,2 @@
+../Core/Src/ADC_functions.c:34:10:get_adc_battery_value	40	static
+../Core/Src/ADC_functions.c:52:6:battery_level_show	16	static
